@@ -1,2 +1,2 @@
-# multi-cloud-onboard
+# assignment1
 This is a sample Github repo for doing multi-cloud onboarding: Works with AWS, Azure and GCP
