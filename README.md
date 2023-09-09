@@ -1,6 +1,5 @@
 # IDS 706 Data Engineering Mini Project 1
 
-## Mini Project 1
 #### This repository sets up an environment with codespaces and Github Actions to create a Python Github template. 
 ##### Key components in the repository are:
 
