@@ -1,2 +1,12 @@
 # IDS 706 Data Engineering Mini Project 1
-This is a sample Github repo for doing multi-cloud onboarding: Works with AWS, Azure and GCP
+
+Mini Project 1
+This repository sets up an environment with codespaces and Github Actions to create a Python Github template. Key components in the repository are:
+
+- Makefile
+- requirements.txt
+- Dockerfile
+- .devcontainer
+- main.py
+- test_main.py
+- GitHub Actions
