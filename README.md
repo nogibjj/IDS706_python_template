@@ -1,4 +1,5 @@
 # IDS 706 Data Engineering Mini Project 1
+[![Python CI](https://github.com/nogibjj/IDS706_python_template/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/IDS706_python_template/actions/workflows/cicd.yml)
 
 This repository sets up an environment with codespaces and Github Actions to create a Python Github template. 
 
