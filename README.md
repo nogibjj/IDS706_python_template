@@ -14,4 +14,4 @@ This repository sets up an environment with codespaces and Github Actions to cre
   6. **test_main.py:** python file which tests the function in main 
   7. **workflows**: contains configuration files for defining and automating various tasks, processes, and workflows within the GitHub repository.
   8. **README**: a markdown file that gives developers a basic description and instructions for the GitHub project.
-  9. .gitignore: specifies files and directories that should be ignored by Git, the version control system used by Github. Changes in files or directories in the .gitignore file will not be tracked by Git, and they will not be included in the version history. 
+  9. **.gitignore**: specifies files and directories that should be ignored by Git, the version control system used by Github. Changes in files or directories in the .gitignore file will not be tracked by Git, and they will not be included in the version history. 
