@@ -15,4 +15,18 @@ This repository sets up an environment with codespaces and Github Actions to cre
   6. **test_main.py:** python file which tests the function in main 
   7. **workflows**: contains configuration files for defining and automating various tasks, processes, and workflows within the GitHub repository.
   8. **README**: a markdown file that gives developers a basic description and instructions for the GitHub project.
-  9. **.gitignore**: specifies files and directories that should be ignored by Git, the version control system used by Github. Changes in files or directories in the .gitignore file will not be tracked by Git, and they will not be included in the version history. 
+  9. **.gitignore**: specifies files and directories that should be ignored by Git, the version control system used by Github. Changes in files or directories in the .gitignore file will not be tracked by Git, and they will not be included in the version history.
+
+***
+
+### Github Actions
+Github Actions is used to automate install, format, lint, test actions everytime a change is pushed onto the repository. A successful run will look like the following screenshot. 
+![image](https://github.com/nogibjj/IDS706_python_template/assets/141780408/2ded7929-738a-4083-8f38-bc309a2abe74)
+
+*** 
+
+### Test Result 
+Git codespace test result will be visible if it runs successfully. 
+![image](https://github.com/nogibjj/IDS706_python_template/assets/141780408/90a3098f-4ee1-4bad-82c7-d8aea7824efa)
+
+
